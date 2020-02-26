@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>Chore${number}-${category} has been assigned to you</message_string>
+        <name>Chores Assignment</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="General Record Payload">f0de6c59dbd5330029ee1461399619da</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 18:45:04</sys_created_on>
+        <sys_id>8d71d819db95330029ee146139961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores Assignment</sys_name>
+        <sys_package display_value="ChoresZero" source="x_273492_choreszer">b6c704dddb55330029ee146139961928</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChoresZero">b6c704dddb55330029ee146139961928</sys_scope>
+        <sys_update_name>sys_push_notif_msg_8d71d819db95330029ee146139961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 18:45:04</sys_updated_on>
+        <table>x_273492_choreszer_chores</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>
